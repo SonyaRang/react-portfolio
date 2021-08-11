@@ -10,10 +10,10 @@ const aboutMe = () => {
           <h2>About Me</h2>
           <hr class="solid bg-light" />
           <p style={{ fontSize: "25px" }}>
-            Hi I'm Sonya Rangraj, I am a recent graduate of University of Texas full stack web development certification. Currently living in the Netherlands with my parents till I can find a workplace in the US. I am looking at many job opportunities everyday and seek out to apply. My favorite hobbies are yoga, ceramics, and learning to fence. 
+            Hi I'm Sonya Rangraj, I am a recent graduate of University of Texas full stack web development certification. Currently living in the Netherlands with my parents till I can find a workplace in the US.
           </p>
           <p style={{ fontSize: "25px" }}>
-            I am very well versed in many skills. including computer science, Microsoft office, google analytics, and javascript. 
+          A results driven individual seeking a profession in full stack web development. I have acquired extensive knowledge and skills through my full stack coding program and marketing bachelor's degree.
           </p>
         </MDBCol>
       </MDBRow>
